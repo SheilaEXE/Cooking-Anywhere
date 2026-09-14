@@ -14,5 +14,8 @@
       "UniqueID": "NatrollEXE.TileMarker",
       "MinimumVersion": "1.1.0"
     }
+  ],
+  "UpdateKeys": [
+    "Nexus:52298"
   ]
 }

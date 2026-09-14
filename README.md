@@ -24,9 +24,3 @@ The mod runs the game's normal `Kitchen` map action instead of creating a separa
 That lets mods such as Better Crafting handle the kitchen activation through their existing
 integration. Ingredient and remote-storage behavior remains controlled by the cooking and storage
 mods you already use.
-
-## Português
-
-O Cooking Anywhere permite transformar qualquer tile marcado em um ponto de cozinha. Abra o Tile
-Marker, escolha **Pontos de cozinha**, marque os tiles desejados e salve. Depois, fique de frente
-para um deles e aperte o botão normal de ação do jogo.
